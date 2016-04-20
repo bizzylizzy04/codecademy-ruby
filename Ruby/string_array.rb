@@ -1,0 +1,1 @@
+string_array = ["word","noun","verb","conjunction"]
